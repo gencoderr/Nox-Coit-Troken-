@@ -1,0 +1,16 @@
+# Logs
+logs
+*.log
+
+# ignore vscode config files
+/.vscode/
+
+# ignore database files
+/db
+
+.env
+
+# ignore default docker-compose file
+/docker-compose.yml
+
+node_modules
